@@ -1,0 +1,10 @@
+{"Data":[
+  "status" : "new",
+  "updation_type" : "nil",
+  "version" : "1.0",
+  "latitude" : "latitude value",
+  "longitude" : "longitude value",
+  "locality"  : "locality name",
+  "images_count" : "count value",
+  "videos_count" : "count value"
+}]}
